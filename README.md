@@ -41,6 +41,10 @@ Karn is a comprehensive platform designed to connect blood and organ donors with
 4. Campaign Page
    ![image](https://github.com/user-attachments/assets/f4e1e298-f73e-495b-b2e9-87087189ff5e)
 
+5. Footer Section
+   ![image](https://github.com/user-attachments/assets/cbe6330c-041a-412c-a834-643722470f4e)
+
+
 
 
 
