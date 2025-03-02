@@ -1,8 +1,8 @@
-**Overview**
+## Overview
 
 Karn is a comprehensive platform designed to connect blood and organ donors with recipients in need. The platform facilitates seamless donor registration, request management, and real-time matching to ensure timely assistance in life-saving situations.
 
-**Features**
+## Features
 
 1. Donor Registration: Users can sign up as blood or organ donors and specify their availability.
 
@@ -18,7 +18,7 @@ Karn is a comprehensive platform designed to connect blood and organ donors with
 
 7. Location-Based Search: Find nearby donors or donation centers.
 
-**Usage**
+## Usage
 
 1. Sign up as a donor or a recipient.
 
@@ -28,7 +28,7 @@ Karn is a comprehensive platform designed to connect blood and organ donors with
 
 4. Receive real-time notifications on donation status.
 
-**Some ScreenShots**
+## Some ScreenShots
 1. Main Page
    ![image](https://github.com/user-attachments/assets/3978a04a-8678-4ab3-9169-b139b7df91b0)
 
