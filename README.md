@@ -28,7 +28,7 @@ Karn is a comprehensive platform designed to connect blood and organ donors with
 
 4. Receive real-time notifications on donation status.
 
-## Some ScreenShots
+## Some ScreenShots -
 1. Main Page
    ![image](https://github.com/user-attachments/assets/3978a04a-8678-4ab3-9169-b139b7df91b0)
 
