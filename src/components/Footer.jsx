@@ -65,10 +65,10 @@ const Footer = () => {
             <Link to="#" className="text-gray-400 hover:text-white">
               <FaFacebook className="w-5 h-5" />
             </Link>
-            <Link to="https://x.com/YuvrajS16233763" className="text-gray-400 hover:text-white">
+            <Link to="https://x.com/" className="text-gray-400 hover:text-white">
               <FaTwitter className="w-5 h-5" />
             </Link>
-            <Link to="https://www.instagram.com/yuvvii45/" className="text-gray-400 hover:text-white">
+            <Link to="https://www.instagram.com/" className="text-gray-400 hover:text-white">
               <FaInstagram className="w-5 h-5" />
             </Link>
           </div>
