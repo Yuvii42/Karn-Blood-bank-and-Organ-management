@@ -12,6 +12,8 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.0.6",
     "autoprefixer": "^10.4.20",
+    "framer-motion": "^12.23.12",
+    "lucide-react": "^0.542.0",
     "postcss": "^8.5.2",
     "qrcode.react": "^4.2.0",
     "react": "^19.0.0",

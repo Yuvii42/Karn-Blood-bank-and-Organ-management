@@ -50,6 +50,7 @@ const Navbar = () => {
         <NavLink to="/about" current={location.pathname}>About Us</NavLink>
         <NavLink to="/find-blood" current={location.pathname}>Find Blood</NavLink>
         <NavLink to="/register" current={location.pathname}>Register Now</NavLink>
+        <NavLink to="/skincare" current={location.pathname}>Skin Care</NavLink>
       </div>
 
       {/* Login Button */}

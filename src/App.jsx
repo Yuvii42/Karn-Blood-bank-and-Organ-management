@@ -19,6 +19,7 @@ import FAQs from './pages/FAQs'
 import ContactUs from './pages/Contact'
 import Terms from "./pages/Terms";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
+import SkinCare from './pages/SkinCare'
 
 function App() {
   return (
@@ -32,6 +33,7 @@ function App() {
             <Route path="/find-blood" element={<FindBlood />} />
             <Route path="/register" element={<Register />} />
             <Route path="/login" element={<Login />} />
+            <Route path='/SkinCare' element={<SkinCare/>} />
             
             <Route path="/dashboard" element={<Dashboard />} />
 
