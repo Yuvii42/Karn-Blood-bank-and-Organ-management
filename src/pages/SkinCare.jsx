@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import { HeartPulse, Smile, Brain, AlertTriangle } from "lucide-react";
+import { Link } from "react-router-dom";
 
 const features = [
   {
@@ -113,16 +114,12 @@ const SkinCare = () => {
         
           {/* Start Button */}
   <div className="mb-4">
-    <a
-      href="https://health-mirror.vercel.app/" // replace with your external link
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      <button className="px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition">
-        Start
-      </button>
-    </a>
-  </div>
+  <a href="https://health-mirror.vercel.app/">
+    <button className="px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition">
+      Start
+    </button>
+  </a>
+</div>
 
           By combining advanced skin analysis with lifestyle and risk assessment, 
           <span className="font-semibold"> Karn</span> not only protects donors but also 
