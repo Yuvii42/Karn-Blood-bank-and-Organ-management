@@ -42,9 +42,9 @@ Karn is a comprehensive platform designed to connect blood and organ donors with
    ![image](https://github.com/user-attachments/assets/f4e1e298-f73e-495b-b2e9-87087189ff5e)
 
 5. Skin-Care Page
-6. <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4a95faf6-156d-4faa-afc2-138473ee4831" />
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4a95faf6-156d-4faa-afc2-138473ee4831" />
 
-7. Footer Section
+6. Footer Section
    ![image](https://github.com/user-attachments/assets/cbe6330c-041a-412c-a834-643722470f4e)
 
 
